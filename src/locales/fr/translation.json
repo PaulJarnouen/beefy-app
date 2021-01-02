@@ -1,5 +1,5 @@
 {
-  "Disclaimer": "Ce projet est en version bêta. Soyez prudent.",
+  "Disclaimer": "L'utilisation de smart contract, de token et de cryptomonnnaies est toujours risqué. Faites vos propres recherches avant d'investir.",
   "Network-Error": "Erreur Réseau",
   "Vault-Wallet": "Portefeuille",
   "Vault-Balance": "Solde",
@@ -17,11 +17,11 @@
   "Vault-WithdrawFee": "Il y a des frais de retrait de 0,1% sur tous les coffres",
   "Vault-MainTitle": "Coffres",
   "Vault-SecondTitle": "Déposer & Générer des intêrets",
-  "Hide-Zero-Balances": "Hide Zero Balances",
-  "Retired-Vaults": "Retired Vaults",
-  "Filters-Platform": "Platform",
-  "Filters-Asset": "Asset",
-  "Filters-Sort": "Sort by",
-  "Filters-All": "All",
-  "Filters-Default": "Default"
+  "Hide-Zero-Balances": "Masquer les coffres sans solde",
+  "Retired-Vaults": "Anciens coffres",
+  "Filters-Platform": "Platforme",
+  "Filters-Asset": "Actif",
+  "Filters-Sort": "Trier par",
+  "Filters-All": "Tout",
+  "Filters-Default": "Défaut"
 }
